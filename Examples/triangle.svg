@@ -1,0 +1,4 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="100,20 40,180 160,180" style="fill:pink;stroke:black;stroke-width:2" />
+  <text x="100" y="120" font-family="Arial" font-size="24" fill="red" text-anchor="middle" alignment-baseline="middle">AYA</text>
+</svg>
